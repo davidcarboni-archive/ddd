@@ -1,0 +1,2 @@
+docker build --tag google:cgo .
+docker run google:cgo
