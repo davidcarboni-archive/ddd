@@ -1,0 +1,2 @@
+docker build --tag google:ca-certificates .
+docker run google:ca-certificates
