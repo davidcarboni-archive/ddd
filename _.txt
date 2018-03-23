@@ -1,0 +1,4 @@
+go run main.go
+go build -o hello main.go
+ls -lah
+./hello
