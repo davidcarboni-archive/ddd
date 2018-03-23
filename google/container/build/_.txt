@@ -1,0 +1,2 @@
+docker build --tag google:build .
+docker run google:build
