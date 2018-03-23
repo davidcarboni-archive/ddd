@@ -1,0 +1,2 @@
+docker build --tag google:container .
+docker run google:container
