@@ -1,0 +1,2 @@
+docker build --tag google:nonprivileged .
+docker run google:nonprivileged
