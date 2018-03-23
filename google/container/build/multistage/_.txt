@@ -1,0 +1,2 @@
+docker build --tag google:multistage .
+docker run google:multistage
