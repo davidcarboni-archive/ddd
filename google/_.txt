@@ -1,2 +1,3 @@
 go run main.go
 go build -o google main.go
+./google
