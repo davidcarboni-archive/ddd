@@ -1,0 +1,2 @@
+docker build --tag google:microservice .
+docker run -p 7000:7000 google:microservice
